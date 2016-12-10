@@ -1,5 +1,6 @@
 package classifier;
 
+//Jest to klasyfikator który był pierwotnie w projekcie - raczej nie powinien być nigdzie używany.
 public class Classifier {
 
     double[][] TrainingSet, TestSet;
